@@ -1,6 +1,6 @@
-# ITBantex Inventory Request System
+# Web Purchasing Items Request System
 
-ITBantex is an internal inventory request and stock confirmation system built with  
+wPurchasing items is an internal inventory request and stock confirmation system built with  
 **Laravel 12 + Breeze + TailwindCSS + Excel Export**.
 
 Employees can submit item requests and export them into Excel, while admins confirm incoming stock through transactions.
@@ -17,7 +17,7 @@ Employees can submit item requests and export them into Excel, while admins conf
 
 ### Admin Side
 - Admin dashboard overview
-- Sync Item Master from Excel
+- Sync Stock Item/Item Master from Excel
 - Stock transaction approval (Approve / Reject)
 - Track pending & completed transactions
 
@@ -51,7 +51,7 @@ Follow this exact order after cloning the project:
 ### 1. Clone Reposity
 
 ```bash
-git clone https://github.com/Hawariii/ITbantex.git
+git clone https://github.com/Hawariii/web-purchasing-items.git
 cd ITbantex
 ```
 
